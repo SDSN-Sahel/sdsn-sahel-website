@@ -75,3 +75,5 @@ fields:
     max: 
     labelField: 
   label: Location
+pages:
+- src/content/events/2020-africa-sdg-index-dashboards-report-launch.md
