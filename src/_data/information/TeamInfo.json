@@ -1,6 +1,6 @@
 {
   "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
-  "leadershipCouncil": true,
+  "leadershipCouncil": false,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
@@ -10,43 +10,23 @@
   "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
-    {
-      "name": "The Fifth Member",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "",
-      "email": ""
-    },
-    {
-      "name": "Sally by the Seashore",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
-    }
+
   ],
   "nmProfiles": [
     {
-      "name": "John Name",
+      "name": "Ibrahima Kampo",
       "networkPosition": "Network Manager",
       "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
-    },
-    {
-      "name": "Marie Name",
-      "networkPosition": "Network Manager",
-      "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-head-scarf-2951093.jpg",
-      "email": ""
+      "photo": "/uploads/ibrihima.jpg",
+      "email": "sahel@unsdsn.org"
     }
   ],
   "youthProfiles": [
     {
-      "name": "Lee Name",
+      "name": "Pape Malick Dembele",
       "networkPosition": "Youth Network Coordinator",
       "position": "",
-      "photo": "/uploads/man-in-red-jacket-1681010.jpg",
+      "photo": "/uploads/pape.jpg",
       "email": "sahel@sdsnyouth.org"
     }
   ],
