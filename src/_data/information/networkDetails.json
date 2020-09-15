@@ -5,43 +5,43 @@
   "networkName": "Sahel",
   "networkDesc": "<p>SDSN Sahel is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
   "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in the Sahel Region.",
-  "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+  "networkVisionSubtitle": "",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to the Sahel Region 1",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
+      "header": "To mobilize scientific and technological expertise",
+      "desc": "<p></p>",
       "link": ""
     },
     {
-      "header": "Localize the SDGs to the Sahel Region 5",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
-      "link": "sdgstudent.org"
+      "header": "Continuously identify opportunities for broadening the network",
+      "desc": "<p></p>",
+      "link": ""
     },
     {
-      "header": "Localize the SDGs to the Sahel Region 3",
+      "header": "To promote regional solutions initiatives",
       "desc": "",
-      "link": "sdgstudent.org"
+      "link": ""
     }
   ],
   "impactSection": true,
-  "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
+  "networkImpact": "<p>In its seven member countries, SDSN Sahel works to develop strong ties with academia and government to raise awareness of the SDGs, participate in the processes to determine national SDG policies, and promote solutions.</p>",
   "networkMetrics": [
     {
-      "header": "3 years",
-      "desc": "<p>Awarded the Sustainability Award in the Sahel Region, 3 years in a row.</p>"
+      "header": "2015",
+      "desc": "<p>Established since 2015.</p>"
     },
     {
-      "header": "129",
-      "desc": "<p>Scored 129 in the Antarctic region for driving SDG implementation.</p>"
+      "header": "7",
+      "desc": "<p>The network covers 7 member countries.</p>"
     },
     {
-      "header": "20",
-      "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
+      "header": "34",
+      "desc": "<p>Member Institutions in the region - covering academia, NGOs and research institutions.</p>"
     }
   ],
-  "networkEmail": "antarc@unsdsn.org",
-  "websiteTitle": "SDSN the Sahel Region",
-  "websiteURL": "https://sdsn-rn-network.netlify.app/",
-  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
+  "networkEmail": "sahel@unsdsn.org",
+  "websiteTitle": "SDSN Sahel",
+  "websiteURL": "http://sdsn-sahel.netlify.app/",
+  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shrc2NlIUg9gKZjzq?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
 }
