@@ -87,4 +87,5 @@ fields:
   label: Embedded content
   description: 'Add any embedded content here. '
 pages:
+- src/content/news/sdsn-sahel-holds-regional-conference-on-sdg-implementation.md
 - src/content/news/sdsn-sahel-launches-in-dakar.md
