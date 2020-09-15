@@ -18,10 +18,10 @@
   "socialMedia": true,
   "socialMediaProfiles": [
     {
-      "platform": "Whatsapp",
-      "ctaTitle": "Message us on Whatsapp",
-      "ctaLink": "https://",
-      "socialHeader": "Whatsapp"
+      "platform": "Twitter",
+      "ctaTitle": "Follow us on Twitter",
+      "ctaLink": "https://twitter.com/sdsnsahel",
+      "socialHeader": "Twitter"
     }
   ],
   "title": "Network Contact Information"
