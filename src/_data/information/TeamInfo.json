@@ -1,6 +1,6 @@
 {
   "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
-  "leadershipCouncil": false,
+  "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
@@ -10,7 +10,27 @@
   "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
-
+    {
+      "name": "DR ABRAHAM BENGALY",
+      "email": "abengaly@yahoo.fr ",
+      "networkPosition": "Membre du Conseil d'Administration",
+      "position": "Président du Cercle de Réflexion et d'Actions Initiative du Mali",
+      "photo": "/uploads/dr-abraham-bengaly.jpg"
+    },
+    {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    }
   ],
   "nmProfiles": [
     {
