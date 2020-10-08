@@ -12,7 +12,7 @@ desc: "<p>Le Rapport 2020 sur l’Indice et les Tableaux de Bord des Objectifs d
   de leurs progrès vers la réalisation de ces objectifs, vue sous l’angle du principe
   de « ne laisser personne de côté ». Le Rapport comprend aussi une analyse préliminaire
   de l’impact de la COVID-19 sur les ODD en Afrique.</p>"
-ctaTitle: Téléchargement
+ctaTitle: TELECHARGEMENT DU RAPPORT
 mainUploadToggle: true
 ctaURL: ''
 file: "/uploads/2020_africa_index_and_dashboards.pdf"
