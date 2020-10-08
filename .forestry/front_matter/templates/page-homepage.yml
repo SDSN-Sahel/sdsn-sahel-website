@@ -4,9 +4,9 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Homepage
   default: Homepage
   hidden: true
+  label: ACCUEIL
 - type: text
   name: header
   label: Banner Title
