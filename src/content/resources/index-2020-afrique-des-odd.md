@@ -14,7 +14,7 @@ desc: "<p>Le Rapport 2020 sur l’Indice et les Tableaux de Bord des Objectifs d
   de l’impact de la COVID-19 sur les ODD en Afrique.</p>"
 ctaTitle: TELECHARGEMENT DU RAPPORT
 mainUploadToggle: false
-ctaURL: "/uploads/2020_africa_index_and_dashboards.pdf"
+ctaURL: https://s3.amazonaws.com/sustainabledevelopment.report/2020/2020_africa_index_and_dashboards.pdf
 file: "/uploads/2020_africa_index_and_dashboards.pdf"
 featuredToggle: false
 oResources: ''
