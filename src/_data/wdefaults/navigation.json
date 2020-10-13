@@ -6,7 +6,7 @@
       "menuItems": [
         {
           "text": "À PROPOS",
-          "url": "/what-we-do",
+          "url": "/about",
           "external": false
         },
         {
