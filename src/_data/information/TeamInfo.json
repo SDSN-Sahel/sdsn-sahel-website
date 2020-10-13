@@ -1,5 +1,5 @@
 {
-  "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
+  "teamDesc": "<p>Notre équipe travaille ensemble pour coordonner les activités du réseau, s'engager avec nos membres et collaborer avec d'autres parties prenantes dans le pays.</p>",
   "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
@@ -100,5 +100,5 @@
     }
   ],
   "defaultPhoto": "/images/person.png",
-  "title": "The Team"
+  "title": "NOTRE EQUIPE"
 }
