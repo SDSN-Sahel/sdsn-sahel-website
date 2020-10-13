@@ -1,11 +1,11 @@
 ---
 pageTitle: News Stories Pages
-date: 2016-09-01T10:28:49+00:00
+date: 2016-09-01T10:28:49.000+00:00
 author: Network Secretariat
 tags:
 - Conference
 - Mali
-title: SDSN Sahel Holds Regional Conference on SDG Implementation
+title: SDSN Sahel organise une conférence régionale sur la mise en œuvre des SDG
 desc: ''
 fImage: "/uploads/sahel-conference.png"
 featuredToggle: false
@@ -13,12 +13,12 @@ aboutAuthor: ''
 embeddedContent: []
 
 ---
-On 16 and 17 August, 2016, SDSN Sahel held its Regional Conference at the Training Centre for Development in Bamako, Mali. Government stakeholders from the network’s five member countries (Burkina Faso, Mali, Niger, Mauritania and Senegal) gathered alongside representatives from member universities, as well as NGOs and the African Union. The meeting was chaired by the Minister of Environment and Sustainable Development in Mali, Ms. Keita Aida M’Bo. She led two days of discussions focusing on the identification of practical solutions to support the localization and implementation of the SDGs in the Sahel.
+Les 16 et 17 août 2016, le SDSN Sahel a tenu sa Conférence régionale au Centre de formation pour le développement de Bamako, Mali. Les parties prenantes gouvernementales des cinq pays membres du réseau (Burkina Faso, Mali, Niger, Mauritanie et Sénégal) se sont réunies aux côtés de représentants des universités membres, ainsi que des ONG et de l'Union africaine. La réunion était présidée par la Ministre de l'Environnement et du Développement Durable du Mali, Mme Keita Aida M'Bo. Elle a animé deux jours de discussions axées sur l'identification de solutions pratiques pour soutenir la localisation et la mise en œuvre des ODD au Sahel.
 
-The event provided participants with an opportunity for knowledge-sharing around the methods, policies and technologies that will improve sustainability in the Sahel and the measures that contribute to its success on a national level. Participants also discussed how to increase communication, cooperation and learning across the region.
+L'événement a offert aux participants l'occasion de partager des connaissances sur les méthodes, les politiques et les technologies qui amélioreront la durabilité au Sahel et les mesures qui contribuent à son succès au niveau national. Les participants ont également discuté des moyens d'accroître la communication, la coopération et l'apprentissage dans la région.
 
-Professor Ibrahim Bouna Niang, Director of SDSN Sahel, reminded participants of the network’s four principal activities: raising awareness of the SDGs among national and regional stakeholders, notably by participating in ‘localization’ and ‘prioritization’ activities; promoting ‘Solutions Initiatives’ for sustainable development in the region; helping governments to identify the challenges at local, national and regional levels; and developing long-term strategies for sustainability.
+Le Professeur Ibrahim Bouna Niang, Directeur du SDSN Sahel, a rappelé aux participants les quatre principales activités du réseau: sensibiliser les acteurs nationaux et régionaux aux ODD, notamment en participant aux activités de «localisation» et de «priorisation»; promouvoir des «initiatives de solutions» pour le développement durable dans la région; aider les gouvernements à identifier les défis aux niveaux local, national et régional; et l'élaboration de stratégies à long terme pour la durabilité.
 
-_“Our network is making some important steps in enabling SDG implementation in the Sahel, by advising the governments in Mali and Senegal, supporting the planning stages of national and local strategies, initiating innovative projects to operationalize the SDGs, as well as expanding the membership campaign,”_ Professor Niang added.
+_«Notre réseau franchit des étapes importantes pour permettre la mise en œuvre des ODD au Sahel, en conseillant les gouvernements du Mali et du Sénégal, en soutenant les étapes de planification des stratégies nationales et locales, en lançant des projets innovants pour opérationnaliser les ODD, ainsi qu'en élargissant la campagne d'adhésion. », A_ ajouté le professeur Niang.
 
-The conference received significant attention in the local media, including an [interview of Professor Niang](https://youtu.be/-dki69UXjnI?t=8m49s) for a feature in the national evening news in Mali.
+La conférence a reçu une attention considérable dans les médias locaux, notamment une [interview du professeur Niang](https://youtu.be/-dki69UXjnI?t=8m49s) pour un reportage dans les nouvelles nationales du soir au Mali.
