@@ -3,12 +3,12 @@
   "whitelogo": "/uploads/sdsn-example-sahel-white.png",
   "favicon": "/uploads/favicon.png",
   "networkName": "Sahel",
-  "networkDesc": "<p>SDSN Sahel is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in the Sahel Region.",
+  "networkDesc": "<p>La SDSN Sahel est une communauté d'universités, de centres de recherche et d'autres institutions de connaissances qui s'efforcent de traduire en action les dernières compétences en matière de développement durable.</p>",
+  "networkVision": "Mobiliser la mise en œuvre des SDG par des initiatives de solutions et des parcours à long terme dans la région du Sahel.",
   "networkVisionSubtitle": "",
   "networkObjectives": [
     {
-      "header": "To mobilize scientific and technological expertise",
+      "header": " Mobiliser l'expertise scientifique et technologique",
       "desc": "<p></p>",
       "link": ""
     },
