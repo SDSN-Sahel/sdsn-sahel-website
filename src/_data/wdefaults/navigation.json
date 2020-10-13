@@ -6,7 +6,7 @@
       "menuItems": [
         {
           "text": "À PROPOS",
-          "url": "",
+          "url": "/about/sdsn",
           "external": false
         },
         {
