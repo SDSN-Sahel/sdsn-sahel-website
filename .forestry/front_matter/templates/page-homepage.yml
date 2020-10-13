@@ -14,6 +14,11 @@ fields:
   description: e.g. Sustainable Development Solutions Network - Antarctica
   config:
     required: true
+- name: banner_title
+  type: file
+  config:
+    maxSize: 64
+  label: Banner Title
 - name: subtitle
   type: textarea
   default: "<p>Mobilizing SDG implementation through solution initiatives and long-term
