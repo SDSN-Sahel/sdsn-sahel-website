@@ -20,10 +20,10 @@
     },
     {
       "megaMenu": true,
-      "text": "WHAT WE DO",
+      "text": "NOS ACTIVITÉS",
       "menuItems": [
         {
-          "text": "News and Activities",
+          "text": "Actualités et Activités",
           "url": "/news",
           "external": false
         },
