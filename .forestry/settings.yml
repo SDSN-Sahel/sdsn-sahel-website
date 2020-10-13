@@ -83,8 +83,8 @@ sections:
 - type: document
   path: src/_data/wdefaults/googleAnalytics.json
   label: Google Analytics
-upload_dir: src/assets/images
-public_path: "/assets/images"
+upload_dir: src/assets/uploads
+public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
