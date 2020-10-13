@@ -2,11 +2,11 @@
   "items": [
     {
       "megaMenu": true,
-      "text": "ABOUT US",
+      "text": "À PROPOS",
       "menuItems": [
         {
-          "text": "About SDSN",
-          "url": "/about/sdsn",
+          "text": "À PROPOS du SDSN",
+          "url": "https://www.unsdsn.org/about-us",
           "external": false
         },
         {
