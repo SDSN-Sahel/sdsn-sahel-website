@@ -7,17 +7,15 @@ fields:
   default: Homepage
   hidden: true
   label: ACCUEIL
-- type: text
-  name: header
-  label: Banner Title
-  default: Sustainable Development Solutions Network - Antarctica
-  description: e.g. Sustainable Development Solutions Network - Antarctica
-  config:
-    required: true
 - name: banner_title
-  type: file
+  type: textarea
+  default: ''
   config:
-    maxSize: 64
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  hidden: false
   label: Banner Title
 - name: subtitle
   type: textarea
@@ -31,6 +29,13 @@ fields:
   label: Banner Sub Title
   description: e.g. Mobilizing SDG implementation through solution initiatives and
     long-term pathways in the Sahel Region.
+- type: text
+  name: header
+  label: Banner Title
+  default: Sustainable Development Solutions Network - Antarctica
+  description: e.g. Sustainable Development Solutions Network - Antarctica
+  config:
+    required: true
 - name: featureTitle
   type: text
   config:
