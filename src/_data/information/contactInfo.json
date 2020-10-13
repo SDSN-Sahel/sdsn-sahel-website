@@ -1,18 +1,18 @@
 {
   "contactProfiles": [
     {
+      "contactHeader": "Contact SDSN Youth Sahel",
+      "contactDesc": "Explorez la collaboration avec nos initiatives pour la jeunesse.",
+      "ctaTitle": "Contactez notre équipe de jeunes",
+      "ctaEmail": "sahel@sdsnyouth.org",
+      "photo": "/uploads/pape.jpg"
+    },
+    {
       "contactHeader": "Contact our Network Manager",
       "contactDesc": "Discuss partnerships opportunities or how to join our network.",
       "ctaTitle": "Contact Ibrahima today",
       "ctaEmail": "sahel@unsdsn.org",
       "photo": "/uploads/20190520_163648-1.jpg"
-    },
-    {
-      "contactHeader": "Contact our Youth Team",
-      "contactDesc": "Explore collaboration with our youth initiatives.",
-      "ctaTitle": "Contact our youth team",
-      "ctaEmail": "sahel@sdsnyouth.org",
-      "photo": "/uploads/pape.jpg"
     }
   ],
   "socialMedia": true,
