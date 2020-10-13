@@ -43,10 +43,10 @@
     },
     {
       "megaMenu": true,
-      "text": "THE SDGs",
+      "text": "Les ODD",
       "menuItems": [
         {
-          "text": "SDGs in the Sahel Region",
+          "text": "ODD dans la région du Sahel",
           "url": "/sdgs",
           "external": false
         },
