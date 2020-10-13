@@ -62,10 +62,10 @@
     },
     {
       "megaMenu": true,
-      "text": "GET INVOLVED",
+      "text": "PARTICIPEZ À L’AGENDA 2030",
       "menuItems": [
         {
-          "text": "Join the network",
+          "text": "Rejoignez le réseau",
           "url": "/join",
           "external": false
         },
