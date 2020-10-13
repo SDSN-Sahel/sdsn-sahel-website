@@ -5,7 +5,7 @@
       "text": "À PROPOS",
       "menuItems": [
         {
-          "text": "À PROPOS du SDSN",
+          "text": "À PROPOS",
           "url": "/about-us/",
           "external": false
         },
