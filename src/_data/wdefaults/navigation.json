@@ -6,7 +6,7 @@
       "menuItems": [
         {
           "text": "À PROPOS du SDSN",
-          "url": "https://www.unsdsn.org/about-us",
+          "url": "/about/us",
           "external": false
         },
         {
