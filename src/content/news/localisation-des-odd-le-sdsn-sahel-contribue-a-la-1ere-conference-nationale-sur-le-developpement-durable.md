@@ -5,9 +5,9 @@ author: Network Secretariat
 tags: []
 title: 'Localisation des ODD: le SDSN Sahel contribue à la 1ère Conférence nationale
   sur le développement durable'
-desc: '<p>De gauche à droite: MR. KOURAICHI A DIT HASSANI, MME. FATOUMATA DEMBELE,
+desc: '<h6>De gauche à droite: MR. KOURAICHI A DIT HASSANI, MME. FATOUMATA DEMBELE,
   DR. BOUNA NIANG ET MME. MARILINE DIARA PENDANT LE PANEL SUR "ADAPTATION DES ODD
-  AU SENEGAL"</p>'
+  AU SENEGAL"</h6>'
 fImage: "/uploads/img_5125-e1437657405659-1.webp"
 featuredToggle: false
 aboutAuthor: ''
