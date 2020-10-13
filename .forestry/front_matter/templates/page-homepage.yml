@@ -7,16 +7,6 @@ fields:
   default: Homepage
   hidden: true
   label: ACCUEIL
-- name: banner_title
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  hidden: false
-  label: Banner Title
 - name: subtitle
   type: textarea
   default: "<p>Mobilizing SDG implementation through solution initiatives and long-term
