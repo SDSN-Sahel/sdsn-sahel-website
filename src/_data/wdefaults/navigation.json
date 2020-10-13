@@ -85,7 +85,7 @@
     },
     {
       "megaMenu": false,
-      "text": "SEARCH",
+      "text": "RECHERCHES...",
       "url": "/search",
       "external": false,
       "menuItems": [
