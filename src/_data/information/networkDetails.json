@@ -24,19 +24,19 @@
     }
   ],
   "impactSection": true,
-  "networkImpact": "<p>Dans ses sept pays membres, la SDSN Sahel s'efforce de développer des liens solides avec le monde universitaire et le gouvernement pour mieux faire connaître les ODD, participer aux processus visant à déterminer les politiques nationales en matière de ODD et promouvoir des solutions.</p>",
+  "networkImpact": "<p>Dans ses sept pays membres, le SDSN Sahel s'efforce de développer des liens solides avec le monde universitaire et le gouvernement pour mieux faire connaître les ODD, participer aux processus visant à déterminer les politiques nationales en matière de ODD et promouvoir des solutions.</p>",
   "networkMetrics": [
     {
       "header": "2015",
-      "desc": "<p>Established since 2015.</p>"
+      "desc": "<p>Création du SDSN Sahel</p>"
     },
     {
       "header": "7",
-      "desc": "<p>The network covers 7 member countries.</p>"
+      "desc": "<p>Le réseau couvre 7 pays membres.</p>"
     },
     {
       "header": "34",
-      "desc": "<p>Member Institutions in the region - covering academia, NGOs and research institutions.</p>"
+      "desc": "<p>Institutions membres dans la région - couvrant les universités, les ONG et les institutions de recherche.</p>"
     }
   ],
   "networkEmail": "sahel@unsdsn.org",
