@@ -10,8 +10,8 @@ tags:
 - Tag2
 - Really long tag tag tag
 title: Example University Support to Decade of Action
-desc: We are at a critical juncture, where new thinking is needed more than ever;
-  there is an important role for universities to play.
+desc: Nous sommes à un moment critique, où une nouvelle réflexion est plus que jamais nécessaire ;
+  les universités ont un rôle important à jouer.
 ctaTitle: 'A full summary of the meeting is available online. '
 ctaURL: https://irp-cdn.multiscreensite.com/6f2c9f57/files/uploaded/200716%20Summary%20University%20Sector%20Support%20to%20SDGs.pdf
 fImage: "/uploads/rainforest-during-foggy-day-975771.jpg"
