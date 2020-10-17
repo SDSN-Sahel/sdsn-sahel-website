@@ -16,7 +16,7 @@ fields:
     type: text
     config:
       required: true
-    label: Host Institution Name
+    label: Nom Institution Hote
   - name: hiLogo
     type: file
     config:
