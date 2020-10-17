@@ -34,7 +34,7 @@ fields:
 - name: fImage
   type: file
   config:
-    maxSize: 0.7
+    maxSize: 4.7
   label: Featured Image
 - name: featuredToggle
   type: boolean
