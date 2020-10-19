@@ -1,7 +1,7 @@
 {
   "title": "Events Landing Page",
   "toggle": true,
-  "header": "Events",
-  "subtitle": "<p>See our latest events.</p>",
-  "previousPageText": "Go back to Events"
+  "header": "Événements",
+  "subtitle": "<p>Voir nos derniers événements.</p>",
+  "previousPageText": "Retour à la page Événements"
 }
