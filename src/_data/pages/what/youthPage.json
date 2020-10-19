@@ -2,7 +2,6 @@
   "title": "Page: Youth",
   "toggle": true,
   "header": "Initiatives du SDSN Youth Sahel",
-  "photo": "/uploads",
   "subtitle": "Créer la prochaine génération de dirigeants dans le domaine du développement durable.",
   "youthObjectives": [
     {
@@ -32,5 +31,7 @@
 
   ],
   "youthMembersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shrWRUJ4zm1pH1bFg?backgroundColor=yellow&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
-  "youth": "![](/assets/uploads/sdsn-youth-sahel.jpeg)"
+  "youth": "![](/assets/uploads/sdsn-youth-sahel.jpeg)",
+  "fImage": "",
+  "photo": "/uploads"
 }
