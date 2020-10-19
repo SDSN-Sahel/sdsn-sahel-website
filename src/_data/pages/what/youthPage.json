@@ -1,22 +1,22 @@
 {
   "title": "Page: Youth",
   "toggle": true,
-  "header": "Our Youth Initiative",
-  "subtitle": "Creating the next generation of leaders in sustainable development.",
+  "header": "Initiatives du SDSN Youth Sahel",
+  "subtitle": "Créer la prochaine génération de dirigeants dans le domaine du développement durable.",
   "youthObjectives": [
     {
       "header": "Train young leaders and organizations.",
       "desc": "<p>Many young people are passionate about positive changes but face challenges in achieving them. Many education systems do not equip them with knowledge of sustainable development, nor provided the opportunity to create practical changes. We bridge the gap by educating them with the understanding of these challenges, and how they can contribute to solving them.</p>",
       "link": "",
-      "objTitle": "Train young leaders and organizations.",
-      "objective": "<p>Many young people are passionate about positive changes but face challenges in achieving them. Many education systems do not equip them with knowledge of sustainable development, nor provided the opportunity to create practical changes. We bridge the gap by educating them with the understanding of these challenges, and how they can contribute to solving them.</p>"
+      "objTitle": "Former de jeunes leaders et organisations.",
+      "objective": "<p>De nombreux jeunes sont passionnés par les changements positifs, mais doivent relever des défis pour y parvenir. De nombreux systèmes éducatifs ne les dotent pas de connaissances en matière de développement durable et ne leur donnent pas la possibilité d'apporter des changements concrets. Nous comblons ce fossé en les éduquant à la compréhension de ces défis et à la manière dont ils peuvent contribuer à les résoudre.</p>"
     },
     {
       "header": "Ideate and collaborate in communities.",
       "desc": "<p>We've created a community of passionate young people that allows for peer-to-peer learning, collaboration, and a space to try new ideas.</p>",
       "link": "",
-      "objTitle": "Ideate and collaborate in communities.",
-      "objective": "<p>We've created a community of passionate young people that allows for peer-to-peer learning, collaboration, and a space to try new ideas.</p>"
+      "objTitle": "Idées et collaboration au sein des communautés.",
+      "objective": "<p>Nous avons créé une communauté de jeunes passionnés qui permet l'apprentissage entre pairs, la collaboration et un espace pour essayer de nouvelles idées.</p>"
     }
   ],
   "highlightProjectsHeader": "Highlight projects",
