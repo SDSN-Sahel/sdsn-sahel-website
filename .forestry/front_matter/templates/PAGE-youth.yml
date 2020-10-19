@@ -17,6 +17,7 @@ fields:
     schema:
       format: markdown
   label: youth
+  description: "<strong>Initiatives du SDSN Youth Sahel</strong>"
 - name: toggle
   type: boolean
   label: Page Toggle
