@@ -13,11 +13,6 @@ fields:
   label: Page Toggle
   default: true
   description: Turn this page on or off
--  name: fImage
-  type: file
-  config:
-    maxSize: 7.7
-  label: Featured Image
 - name: youth
   type: textarea
   default: ''
