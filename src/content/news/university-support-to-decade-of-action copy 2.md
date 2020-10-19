@@ -9,7 +9,7 @@ tags:
 - Tag1
 - Tag2
 - Really long tag tag tag
-title: Example University Support to Decade of Action
+title: Exemple de soutien des universités à la Décennie d'action
 desc: Nous sommes à un moment critique, où une nouvelle réflexion est plus que jamais nécessaire ;
   les universités ont un rôle important à jouer.
 ctaTitle: 'Un résumé complet de la réunion est disponible en ligne. '
