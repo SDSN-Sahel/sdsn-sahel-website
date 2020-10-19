@@ -8,6 +8,15 @@ fields:
     required: false
   label: Page Content Youth
   hidden: true
+- name: youth
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: youth
 - name: toggle
   type: boolean
   label: Page Toggle
