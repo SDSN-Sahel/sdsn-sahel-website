@@ -5,7 +5,7 @@ author: Network Secretariat
 tags: []
 ctaTitle: Register
 title: GLOBAL SOLUTIONS FORUM
-fImage: "/assets/uploads/screenshot-17.jpg"
+fImage: "/assets/uploads/gsf.jpg"
 featuredToggle: true
 desc: <p><img src="/assets/uploads/gsf.jpg"></p>
 ctaURL: https://www.globalsolutionsforum.org/
