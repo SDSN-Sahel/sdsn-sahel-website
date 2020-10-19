@@ -19,12 +19,12 @@
       "objective": "<p>Nous avons créé une communauté de jeunes passionnés qui permet l'apprentissage entre pairs, la collaboration et un espace pour essayer de nouvelles idées.</p>"
     }
   ],
-  "highlightProjectsHeader": "Highlight projects",
-  "highlightProjectsSubtitle": "Read more about our current work.",
-  "youthMemberTitle": "Youth Member List",
-  "youthMemberSubtitle": "The Youth Membership Program is a network of student associations, youth-led and youth-focused organizations, and other institutions dedicated to youth empowerment and the implementation of the Sustainable Development Goals.",
-  "youthContactTitle": "Work together with us.",
-  "youthContactCTA": "Get in touch with our youth team.",
+  "highlightProjectsHeader": "Projets phares",
+  "highlightProjectsSubtitle": "En savoir plus sur nos travaux actuels.",
+  "youthMemberTitle": "Liste des Youth Membres",
+  "youthMemberSubtitle": "Le programme d'adhésion des jeunes est un réseau d'associations d'étudiants, d'organisations dirigées et centrées sur les jeunes et d'autres institutions qui se consacrent à l'autonomisation des jeunes et à la mise en œuvre des objectifs de développement durable.",
+  "youthContactTitle": "Travaillez avec nous.",
+  "youthContactCTA": "Prenez contact avec notre équipe Youth.",
   "youthContactCTAURL": "mailto:sahel@sdsnyouth.org",
   "featuredMembers": false,
   "tImages": [
