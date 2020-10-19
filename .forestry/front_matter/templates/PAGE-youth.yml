@@ -8,6 +8,11 @@ fields:
     required: false
   label: Page Content Youth
   hidden: true
+-  name: fImage
+  type: file
+  config:
+    maxSize: 7.7
+  label: Featured Image
 - name: toggle
   type: boolean
   label: Page Toggle
