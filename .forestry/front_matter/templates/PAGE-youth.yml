@@ -8,6 +8,11 @@ fields:
     required: false
   label: Page Content Youth
   hidden: true
+- name: toggle
+  type: boolean
+  label: Page Toggle
+  default: true
+  description: Turn this page on or off
 - name: youth
   type: textarea
   default: ''
@@ -18,11 +23,6 @@ fields:
       format: markdown
   label: youth
   description: "<strong>Initiatives du SDSN Youth Sahel</strong>"
-- name: toggle
-  type: boolean
-  label: Page Toggle
-  default: true
-  description: Turn this page on or off
 - name: header
   type: text
   config:
