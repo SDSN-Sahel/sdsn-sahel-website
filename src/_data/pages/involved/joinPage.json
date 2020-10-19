@@ -1,13 +1,13 @@
 {
   "header": "Join the network",
   "toggle": true,
-  "subtitle": "<p>Applying for SDSN membership is simple and free! Just complete the online membership application form (available in English, French, Portuguese, Russian, and Spanish) and submit. Our Executive Committee reviews applications on a quarterly basis.</p>",
-  "ourImpactHeader": "Benefits of becoming a member",
-  "ourImpactSubTitle": "<p><b>Accelerating practical problem solving for sustainable development.</b></p><p>Our mission is to accelerate practical problem solving for sustainable development, including the implementation of the Sustainable Development Goals (SDGs) at local, national, and global scales.</p>",
+  "subtitle": "<p>La demande d'adhésion à la SDSN est simple et gratuite ! Il suffit de remplir le formulaire de demande d'adhésion en ligne (disponible en anglais, français, portugais, russe et espagnol) et de l'envoyer. Notre comité exécutif examine les demandes d'adhésion tous les trimestres.</p>",
+  "ourImpactHeader": "Avantages de l'adhésion",
+  "ourImpactSubTitle": "<p><strong>Accelerating practical problem solving for sustainable development.</strong></p><p>Notre mission est d'accélérer la résolution de problèmes pratiques pour le développement durable, y compris la mise en œuvre des objectifs de développement durable (ODD) à l'échelle locale, nationale et mondiale.</p>",
   "memberBenefits": [
     {
-      "header": "Engage with the media",
-      "desc": "<p>The SDSN and its members are regularly approached by media outlets to provide contributions and viewpoints on sustainable development. We work with SDSN members to showcase their work.</p>"
+      "header": "S'engager avec les médias",
+      "desc": "<p>Le SDSN et ses membres sont régulièrement sollicités par les médias pour apporter des contributions et des points de vue sur le développement durable. Nous travaillons avec les membres de la SDSN pour présenter leur travail.</p>"
     },
     {
       "header": "Share teaching solutions for sustainable development",
