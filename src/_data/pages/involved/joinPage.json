@@ -30,11 +30,11 @@
       "desc": "<p>Les membres du SDSN peuvent participer à une ou plusieurs des SDSN nationales ou régionales en fonction de leurs intérêts et de leurs domaines d'activité. La participation active à ces réseaux permettra aux membres du SDSN de proposer et de participer à la mise en œuvre d'initiatives de solutions, d'eforts d'éducation et de formation (y compris l'accès au matériel éducatif en ligne), de recherches conjointes et de travaux politiques avec les gouvernements.</p>"
     }
   ],
-  "joinHeader": "Member Requirements",
-  "joinSubtitle": "<p>Membership in the Sustainable Development Solutions Network is <strong>free and open</strong> to not-for-profit institutions (not individuals).</p><p>Institutions must be knowledge-generating, i.e. they must conduct research, analyses, and/or data collection, and can be universities, research institutions, foundations, or civil society groups. </p><p>Member institutions should have deep expertise in one or more areas related to sustainable development and commit a substantial amount of their own work towards finding and/or implementing solutions for the SDGs.</p>",
-  "joinCta": "Join our network",
+  "joinHeader": "Exigences pour les membres",
+  "joinSubtitle": "<p>L'adhésion au Réseau de solutions pour le développement durable est gratuite et ouverte aux institutions à but non lucratif (et non aux particuliers).</p><p>Les institutions doivent être génératrices de connaissances, c'est-à-dire qu'elles doivent mener des recherches, des analyses et/ou des collectes de données. Il peut s'agir d'universités, d'instituts de recherche, de fondations ou de groupes de la société civile.</p><p>Les institutions membres doivent avoir une expertise approfondie dans un ou plusieurs domaines liés au développement durable et s'engager à consacrer une part importante de leur propre travail à la recherche et/ou à la mise en œuvre de solutions pour les ODD.</p>",
+  "joinCta": "Rejoignez notre réseau",
   "joinCtaURL": "https://www.unsdsn.org/join-the-sdsn",
-  "contactHeader": "Want to learn more?",
-  "contactCta": "Get in touch at sahel@unsdsn.org",
+  "contactHeader": "Vous voulez en savoir plus ?",
+  "contactCta": "Contactez-nous à l'adresse suivante : sahel@unsdsn.org",
   "title": "Join the network page"
 }
