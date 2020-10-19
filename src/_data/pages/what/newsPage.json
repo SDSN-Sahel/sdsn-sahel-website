@@ -2,7 +2,7 @@
   "title": "News Landing Page",
   "networkNewsToggle": true,
   "header": "Actualités du réseau",
-  "subtitle": "<p>A la Une.</p>",
+  "subtitle": "<p><img src=\"/assets/uploads/unknown.jpeg\">A la Une.</p>",
   "globalNewsToggle": true,
   "globalHeader": "Actualité du SDSN Global",
   "globalSubtitle": "<p><img src=\"/assets/uploads/130101-sdsn_logo_final.jpg\">                               A la Une du SDSN Global.</p>",
