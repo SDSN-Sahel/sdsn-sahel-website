@@ -9,6 +9,11 @@ fields:
   label: Page Title
   default: News Landing Page
   hidden: true
+- name: banner_title
+  type: file
+  config:
+    maxSize: 64
+  label: Banner Title
 - name: networkNewsToggle
   type: boolean
   label: Network News Toggle
