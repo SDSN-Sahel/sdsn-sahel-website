@@ -2,11 +2,6 @@
 label: CONTENT News Template
 hide_body: false
 fields:
-- name: fImage
-  type: file
-  config:
-    maxSize: 0.7
-  label: Featured Image
 - name: pageTitle
   type: text
   config:
