@@ -6,7 +6,7 @@ tags:
 - Launch
 ctaTitle: Register
 title: Example Webinar on COVID-19 and SDSN
-fImage: "https://github.com/SDSN-Sahel/sdsn-sahel-website/blob/master/src/assets/uploads/rainforest-during-foggy-day-975771.jpg"
+fImage: "/src/assets/uploads/rainforest-during-foggy-day-975771.jpg"
 featuredToggle: false
 desc: "<p>ello excerpt</p>"
 ctaURL: https://s3.amazonaws.com/sustainabledevelopment.report/2019/2019_lac_sdg_index.pdf
