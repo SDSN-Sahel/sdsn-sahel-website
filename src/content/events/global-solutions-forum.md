@@ -7,7 +7,7 @@ ctaTitle: Register
 title: GLOBAL SOLUTIONS FORUM
 fImage: "/assets/uploads/gsf.jpg"
 featuredToggle: true
-desc: <p><img src="/assets/uploads/gsf.jpg"></p>
+desc: <p><img src="/assets/uploads/screenshot-17.jpg"></p>
 ctaURL: https://www.globalsolutionsforum.org/
 location: En ligne
 
