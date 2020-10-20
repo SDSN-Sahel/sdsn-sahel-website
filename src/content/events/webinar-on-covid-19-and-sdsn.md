@@ -14,7 +14,7 @@ desc: '<p>La troisième Journée mondiale de la statistique sera célébrée par
   thème insiste sur la nécessité de garantir la confiance dans les données, sur l''importance
   de disposer de données faisant autorité, sur l''innovation et rappelle l’importance
   et l''intérêt public des systèmes statistiques nationaux.</p>'
-ctaURL: https://s3.amazonaws.com/sustainabledevelopment.report/2019/2019_lac_sdg_index.pdf
+ctaURL: https://www.un.org/fr/observances/statistics-day
 location: webinaire en ligne
 
 ---
