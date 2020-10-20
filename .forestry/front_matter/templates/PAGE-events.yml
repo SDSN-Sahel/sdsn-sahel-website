@@ -9,6 +9,10 @@ fields:
   label: Page Title
   default: Events Landing Page
   hidden: true
+- name: fimage
+  type: image_gallery
+  config: {}
+  label: fImage
 - name: toggle
   type: boolean
   label: Page Toggle
