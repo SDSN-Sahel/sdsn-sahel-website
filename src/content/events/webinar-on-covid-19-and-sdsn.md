@@ -8,13 +8,13 @@ ctaTitle: Register
 title: JOURNEE MONDIALE DE LA STATISTIQUE
 fImage: "/assets/uploads/wsd-2020-banner-fr.png"
 featuredToggle: false
-desc: '<p>La troisième Journée mondiale de la statistique sera célébrée partout dans
-  le monde le 20 octobre 2020 et aura pour thème : « <a href="http://worldstatisticsday.org/">Connecter
-  le monde avec des données dans lesquelles nous pouvons avoir confiance</a> ». <img
-  src="/assets/uploads/wsd-2020-banner.jpg">Ce thème insiste sur la nécessité de garantir
-  la confiance dans les données, sur l''importance de disposer de données faisant
-  autorité, sur l''innovation et rappelle l’importance et l''intérêt public des systèmes
-  statistiques nationaux.</p>'
+desc: '<p><img src="/assets/uploads/wsd-2020-banner60.jpg">La troisième Journée mondiale
+  de la statistique sera célébrée partout dans le monde le 20 octobre 2020 et aura
+  pour thème : « <a href="http://worldstatisticsday.org/">Connecter le monde avec
+  des données dans lesquelles nous pouvons avoir confiance</a> ».   </p><p>Ce thème
+  insiste sur la nécessité de garantir la confiance dans les données, sur l''importance
+  de disposer de données faisant autorité, sur l''innovation et rappelle l’importance
+  et l''intérêt public des systèmes statistiques nationaux.</p>'
 ctaURL: https://www.un.org/fr/observances/statistics-day
 location: webinaire en ligne
 
