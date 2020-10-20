@@ -1,6 +1,6 @@
 ---
 pageTitle: Event
-date: 2020-10-27T05:29:00+00:00
+date: 
 author: Network Secretariat
 tags: []
 ctaTitle: Register
