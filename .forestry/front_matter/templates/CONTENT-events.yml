@@ -22,9 +22,11 @@ fields:
     required: false
     date_format: MM/DD/YYYY
     time_format: h:mm A Z
-    display_utc: true
+    display_utc: false
     export_format: YYYY-MM-DDThh:mm:ssZ
   default: now
+  showOnly:
+    field: featuredToggle
 - name: author
   type: text
   config:
