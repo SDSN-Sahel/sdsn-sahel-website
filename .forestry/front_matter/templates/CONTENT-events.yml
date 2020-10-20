@@ -31,11 +31,6 @@ fields:
     required: false
   label: Author
   default: Network Secretariat
-- name: fImage
-  type: file
-  config:
-    maxSize: 4.7
-  label: Featured Image
 - name: featuredToggle
   type: boolean
   label: Featured content
