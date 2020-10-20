@@ -6,12 +6,12 @@ tags:
 - Launch
 ctaTitle: Register
 title: Example Webinar on COVID-19 and SDSN
-fImage: "/assets/uploads/f_sdg-goals_icons-individual-rgb-03.png"
-featuredToggle: false
+fImage: ''
+featuredToggle: true
 desc: <p><img src="/assets/uploads/f_sdg-goals_icons-individual-rgb-03.png">Hello
   excerpt</p>
 ctaURL: https://s3.amazonaws.com/sustainabledevelopment.report/2019/2019_lac_sdg_index.pdf
 location: webinaire en ligne
 
 ---
-Hello example content
+![](/assets/uploads/rainforest-during-foggy-day-975771.jpg)Hello example content
