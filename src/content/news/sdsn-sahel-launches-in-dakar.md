@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2015-01-18T10:26:37.000+00:00
+postDate: 2015-01-18T10:26:37.000+00:00
 author: Network Secretariat
 tags:
 - Launch

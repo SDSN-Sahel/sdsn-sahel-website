@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2015-07-24T12:00:00+00:00
+postDate: 2015-07-24T12:00:00+00:00
 author: Network Secretariat
 tags: []
 title: 'Localisation des ODD: le SDSN Sahel contribue à la 1ère Conférence nationale

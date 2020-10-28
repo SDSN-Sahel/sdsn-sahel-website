@@ -1,6 +1,6 @@
 ---
 pageTitle: Resource
-date: 2020-10-08T07:43:40+00:00
+postDate: 2020-10-08T07:43:40+00:00
 author: Network Secretariat
 resourcesToggle: false
 tags: []

@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2020-10-14T10:18:18+00:00
+postDate: 2020-10-14T10:18:18+00:00
 author: Network Secretariat
 tags: []
 title: " Avis aux médias: ce que signifient les objectifs de développement pour les
