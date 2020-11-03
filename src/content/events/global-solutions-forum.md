@@ -1,13 +1,13 @@
 ---
 pageTitle: Event
-postDate: 2020-10-27T12:00:00+00:00
+postDate: 2020-10-27T12:00:00.000+00:00
 author: Network Secretariat
 tags: []
 ctaTitle: Register
 title: 'GLOBAL SOLUTIONS FORUM : Du 27 au 28 Octobre 2020'
 fImage: "/uploads/gsf.jpg"
 featuredToggle: true
-desc: <p><img src="/assets/uploads/screenshot-17.jpg"></p>
+desc: <p><img src="/assets/uploads/screenshot-18.png"></p>
 ctaURL: https://www.globalsolutionsforum.org/
 location: En ligne
 

@@ -11,9 +11,9 @@ featuredToggle: false
 desc: '<p><img src="/assets/uploads/wsd-2020-banner60.jpg">La troisième Journée mondiale
   de la statistique sera célébrée partout dans le monde le 20 octobre 2020 et aura
   pour thème : « <a href="http://worldstatisticsday.org/">Connecter le monde avec
-  des données dans lesquelles nous pouvons avoir confiance</a> ».   </p><p>Ce thème
-  insiste sur la nécessité de garantir la confiance dans les données, sur l''importance
-  de disposer de données faisant autorité, sur l''innovation et rappelle l’importance
+  des données dans lesquelles nous pouvons avoir confiance</a> ».</p><p>Ce thème insiste
+  sur la nécessité de garantir la confiance dans les données, sur l''importance de
+  disposer de données faisant autorité, sur l''innovation et rappelle l’importance
   et l''intérêt public des systèmes statistiques nationaux.</p>'
 ctaURL: https://www.un.org/fr/observances/statistics-day
 location: webinaire en ligne
