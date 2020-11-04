@@ -19,9 +19,7 @@ desc: "<p>Pour réaliser la promesse des ODD, nous devons impliquer les communau
   et efficaces afin qu'ils puissent s'adapter rapidement aux conditions changeantes.</p>"
 ctaTitle: VIDEO
 mainUploadToggle: false
-ctaURL: <iframe width="1368" height="855" src="https://www.youtube.com/embed/NVf6ek5gaWg"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
+ctaURL: https://youtu.be/NVf6ek5gaWg
 file: ''
 featuredToggle: false
 oResources: ''
