@@ -4,7 +4,7 @@ postDate: 2020-11-03T10:55:23+00:00
 author: Network Secretariat
 resourcesToggle: true
 tags: []
-fImage: ''
+fImage: "/uploads/territorial-is.png"
 title: " Système d'Information Territoriale ODD"
 desc: <p><img src="/assets/uploads/territorial-is.png">Pour réaliser la promesse des
   ODD, nous devons impliquer les communautés locales et nous assurer que la planification
