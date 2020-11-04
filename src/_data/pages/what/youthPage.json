@@ -26,9 +26,13 @@
   "youthContactTitle": "Travaillez avec nous.",
   "youthContactCTA": "Prenez contact avec notre équipe Youth.",
   "youthContactCTAURL": "mailto:sahel@sdsnyouth.org",
-  "featuredMembers": false,
+  "featuredMembers": true,
   "tImages": [
-
+    {
+      "tTitle": "",
+      "tLink": "",
+      "tImg": "/assets/uploads/sdsn-youth-sahel.jpeg"
+    }
   ],
   "youthMembersList": "![](/assets/uploads/sdsn-youth-sahel.jpeg)<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shrWRUJ4zm1pH1bFg?backgroundColor=yellow&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "youth": "![](/assets/uploads/sdsn-youth-sahel.jpeg)",
