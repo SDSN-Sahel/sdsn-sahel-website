@@ -19,7 +19,7 @@ desc: <p><img src="/assets/uploads/territorial-is.png">Pour réaliser la promess
   des interventions rapides et efficaces afin qu'ils puissent s'adapter rapidement
   aux conditions changeantes.</p>
 ctaTitle: VIDEO
-mainUploadToggle: false
+mainUploadToggle: true
 ctaURL: https://youtu.be/NVf6ek5gaWg
 file: ''
 featuredToggle: false
