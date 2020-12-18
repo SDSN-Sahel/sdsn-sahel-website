@@ -6,7 +6,7 @@ tags: []
 ctaTitle: Register
 title: SAHEL NETTWORK'S VIRTUFORUM
 featuredToggle: false
-desc: "<p></p>"
+desc: <p><img src="/assets/uploads/virtuforum-300.png"></p>
 ctaURL: ''
 location: ''
 
