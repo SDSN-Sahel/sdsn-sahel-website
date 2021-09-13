@@ -90,7 +90,7 @@ fields:
     value: true
 - name: network_chairman_title
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
@@ -100,6 +100,8 @@ fields:
       file: 
       path: 
   label: NETWORK CHAIRMAN Title
+  showOnly:
+    field: network_chairman_title
 - name: network_chairman_description
   type: textarea
   default: ''
