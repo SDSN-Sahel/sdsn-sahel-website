@@ -88,6 +88,60 @@ fields:
   showOnly:
     field: leadershipCouncil
     value: true
+- name: network_chairman_title
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: NETWORK CHAIRMAN Title
+- name: network_chairman_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Network Chairman Description
+- name: network_chairman_profil
+  type: field_group_list
+  fields:
+  - name: full_name
+    type: text
+    config:
+      required: false
+    label: Full name
+  - name: email
+    type: text
+    config:
+      required: false
+    label: Email
+  - name: network_chairman_title
+    type: text
+    config:
+      required: false
+    label: Network Chairman Title
+  - name: position_title__if_applicable_
+    type: text
+    config:
+      required: false
+    label: Position Title (if applicable)
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Network Chairman Profil
 - name: nmTitle
   type: text
   label: Network Managers Title
