@@ -102,6 +102,29 @@ fields:
   showOnly:
     field: NetworkChairman
     value: true
+- name: network_chairman_profile
+  type: field_group_list
+  fields:
+  - name: full_name
+    type: text
+    config:
+      required: false
+    label: Full name
+  - name: nnwork_chairman_position
+    type: text
+    config:
+      required: false
+    label: NNwork Chairman position
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Network Chairman Profile
 - name: nmTitle
   type: text
   label: Network Managers Title
