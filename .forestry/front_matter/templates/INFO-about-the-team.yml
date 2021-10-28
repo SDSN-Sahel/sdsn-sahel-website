@@ -101,6 +101,7 @@ fields:
   label: Network Chaiman Title
   showOnly:
     value: false
+  default: Network Chairman
 - name: network_chairman_profile
   type: field_group_list
   fields:
