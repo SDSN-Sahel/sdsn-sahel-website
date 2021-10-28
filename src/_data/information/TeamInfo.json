@@ -126,5 +126,13 @@
     }
   ],
   "NetworkChairman": true,
-  "nctitle": ""
+  "nctitle": "",
+  "nen": "",
+  "network_chairman_profile": [
+    {
+      "full_name": "Professeur DIAKHATE Mouhamadou",
+      "nnwork_chairman_position": "Président",
+      "photo": "/assets/uploads/mouhamadou-diakhate.jpg"
+    }
+  ]
 }
