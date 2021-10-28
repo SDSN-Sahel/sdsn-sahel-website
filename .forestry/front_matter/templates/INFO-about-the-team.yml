@@ -92,47 +92,45 @@ fields:
   showOnly:
     field: leadershipCouncil
     value: true
-- name: network_chairman_title
-  type: select
-  default: ''
+- name: nc_title
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: NETWORK CHAIRMAN Title
+  label: Network Chairman Title
+  default: Network Chairman
   showOnly:
-    field: network_chairman_title
-- name: network_chairman_description
+    field: chaiman_profile_
+    value: true
+- name: ncDesc
   type: textarea
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: Network Chairman Description
-- name: network_chairman_profil
+  showOnly:
+    field: chaiman_profile_
+    value: true
+- name: network_chairman
   type: field_group_list
   fields:
-  - name: full_name
+  - name: name
     type: text
     config:
       required: false
-    label: Full name
+    label: 'Full name '
   - name: email
     type: text
     config:
       required: false
     label: Email
-  - name: network_chairman_title
+  - name: network_chairman_position_title
     type: text
     config:
       required: false
-    label: Network Chairman Title
+    label: Network Chairman Position Title
   - name: position_title__if_applicable_
     type: text
     config:
@@ -147,7 +145,10 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Network Chairman Profil
+  label: Network Chairman
+  showOnly:
+    field: chaiman_profile_
+    value: true
 - name: nmTitle
   type: text
   label: Network Managers Title
