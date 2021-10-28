@@ -26,8 +26,7 @@ fields:
   label: Network Chaiman
   description: Turn on or off the Network Chairman section
   showOnly:
-    field: chaiman_profile_
-    value: true
+    value: false
 - name: networkManagers
   type: boolean
   label: Network Managers
