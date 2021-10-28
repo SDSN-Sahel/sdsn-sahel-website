@@ -94,13 +94,14 @@ fields:
   showOnly:
     field: leadershipCouncil
     value: true
-- name: nen
+- name: ncTitle
   type: text
   config:
     required: false
   label: Network Chaiman Title
   showOnly:
-    value: false
+    value: true
+    field: NetworkChairman
   default: Network Chairman
 - name: network_chairman_profile
   type: field_group_list
