@@ -94,7 +94,7 @@ fields:
   showOnly:
     field: leadershipCouncil
     value: true
-- name: nc_title
+- name: nctitle
   type: text
   config:
     required: false
@@ -128,7 +128,7 @@ fields:
     config:
       required: false
     label: Email
-  - name: network_chairman_position_title
+  - name: networkPosition
     type: text
     config:
       required: false
