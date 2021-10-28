@@ -94,6 +94,14 @@ fields:
   showOnly:
     field: leadershipCouncil
     value: true
+- name: nen
+  type: text
+  config:
+    required: false
+  label: Network Chaiman Title
+  showOnly:
+    field: NetworkChairman
+    value: true
 - name: nmTitle
   type: text
   label: Network Managers Title
