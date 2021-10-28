@@ -111,5 +111,17 @@
     }
   ],
   "network_chairman_title": "",
-  "network_chairman_description": ""
+  "network_chairman_description": "",
+  "chaiman_profile_": true,
+  "nc_title": "Président du Réseau Sahel",
+  "ncDesc": "",
+  "network_chairman": [
+    {
+      "name": "Professeur DIAKHATE Mouhamadou",
+      "email": "mdiakhate10@yahoo.com",
+      "network_chairman_position_title": "",
+      "position_title__if_applicable_": "",
+      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg"
+    }
+  ]
 }
