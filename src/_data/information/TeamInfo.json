@@ -1,6 +1,6 @@
 {
   "teamDesc": "<p>Notre équipe travaille ensemble pour coordonner les activités du réseau, s'engager avec nos membres et collaborer avec d'autres parties prenantes dans le pays.</p>",
-  "leadershipCouncil": false,
+  "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
