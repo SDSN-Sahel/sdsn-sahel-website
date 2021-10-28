@@ -45,8 +45,6 @@ sections:
   label: ABOUT US
   create: documents
   match: "**/*"
-  templates:
-  - INFO-about-the-team
 - type: directory
   path: src/_data/pages/what
   label: WHAT WE DO
