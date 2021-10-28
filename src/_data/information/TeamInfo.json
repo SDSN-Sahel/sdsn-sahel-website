@@ -1,6 +1,6 @@
 {
   "teamDesc": "<p>Notre équipe travaille ensemble pour coordonner les activités du réseau, s'engager avec nos membres et collaborer avec d'autres parties prenantes dans le pays.</p>",
-  "leadershipCouncil": true,
+  "leadershipCouncil": false,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
@@ -121,7 +121,10 @@
       "email": "mdiakhate10@yahoo.com",
       "network_chairman_position_title": "Network Chairman",
       "position_title__if_applicable_": "",
-      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg"
+      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
+      "networkPosition": ""
     }
-  ]
+  ],
+  "NetworkChairman": true,
+  "nctitle": ""
 }
