@@ -23,8 +23,11 @@ fields:
   description: Turn on or off the Leadership Council section
 - name: chaiman_profile_
   type: boolean
-  label: 'Chaiman Profile '
+  label: Network Chaiman
   description: Turn on or off the Network Chairman section
+  showOnly:
+    field: chaiman_profile_
+    value: true
 - name: networkManagers
   type: boolean
   label: Network Managers
