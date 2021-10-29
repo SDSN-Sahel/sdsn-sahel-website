@@ -11,18 +11,18 @@
   "youthDesc": "<p>La Youth Team mobilise les jeunes au niveau local pour créer des solutions durables.</p>",
   "lcProfiles": [
     {
-      "name": "Professeur Ahmadou Aly MBAYE",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "",
-      "photo": "/assets/uploads/pr-ahmadou-aly-mbaye-recteur-ucad-economiste-960x1349.jpg"
-    },
-    {
       "name": "Prof. DIAKHATE Mouhamadou",
       "email": "",
       "networkPosition": "Président du Conseil d'Administration",
       "position": "Co Directeur du Laboratoire LEIDI de l'Université Gaston Berger",
       "photo": "/uploads/mouhamadou-diakhate.jpg"
+    },
+    {
+      "name": "Professeur Ahmadou Aly MBAYE",
+      "email": "",
+      "networkPosition": "Membre du Conseil d'Administration",
+      "position": "",
+      "photo": "/assets/uploads/pr-ahmadou-aly-mbaye-recteur-ucad-economiste-960x1349.jpg"
     },
     {
       "name": "Prof. DIALLO Djibril",
