@@ -22,7 +22,7 @@
       "email": "",
       "networkPosition": "Membre du Conseil d'Administration",
       "position": "",
-      "photo": "/assets/uploads/recteur.jpeg"
+      "photo": "/uploads/recteur.jpeg"
     },
     {
       "name": "Prof. DIALLO Djibril",
@@ -106,8 +106,6 @@
       "email": "sahel@sdsnyouth.org"
     }
   ],
-  "defaultPhoto": "/images/person.png",
-  "title": "NOTRE EQUIPE",
   "network_chairman_profil": [
     {
       "email": "mdiakhate10@yahoo.com ",
@@ -117,30 +115,5 @@
       "full_name": "Professeur Mouhamadou M. DIAKHATE"
     }
   ],
-  "network_chairman_title": "",
-  "network_chairman_description": "",
-  "chaiman_profile_": true,
-  "nc_title": "Président du Réseau Sahel",
-  "ncDesc": "<p>Le Président assure la Pésidence du Conseil d'Administration  du résau</p>",
-  "network_chairman": [
-    {
-      "name": "Professeur DIAKHATE Mouhamadou",
-      "email": "mdiakhate10@yahoo.com",
-      "network_chairman_position_title": "Network Chairman",
-      "position_title__if_applicable_": "",
-      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
-      "networkPosition": ""
-    }
-  ],
-  "NetworkChairman": true,
-  "nctitle": "",
-  "nen": "Président de réseau",
-  "network_chairman_profile": [
-    {
-      "full_name": "Professeur DIAKHATE Mouhamadou",
-      "nnwork_chairman_position": "Président CA",
-      "photo": "/assets/uploads/mouhamadou-diakhate.jpg"
-    }
-  ],
-  "ncTitle": ""
-}
+  "defaultPhoto": "/images/person.png",
+  "title": "NOTRE EQUIPE",
