@@ -1,111 +1,54 @@
 {
-  "teamDesc": "<p>Notre équipe travaille ensemble pour coordonner les activités du réseau, s'engager avec nos membres et collaborer avec d'autres parties prenantes dans le pays.</p>",
-  "leadershipCouncil": true,
-  "networkManagers": true,
-  "youthCoordinators": true,
-  "lcTitle": "Leadership Council",
-  "nmTitle": "Managers de réseau",
-  "youthTitle": "Equipe du SDSN Youth",
-  "lcDesc": "<p>Le réseau est guidé par un conseil de direction - composé de leaders mondiaux du développement durable de toutes les régions et de tous les secteurs, y compris la société civile et les secteurs public et privé.</p>",
-  "nmDesc": "<p>Les coordinateurs du réseau travaillent avec les institutions membres pour identifier les collaborations potentielles au sein du réseau.</p>",
-  "youthDesc": "<p>La Youth Team mobilise les jeunes au niveau local pour créer des solutions durables.</p>",
+  "teamDesc": "",
+  "leadershipCouncil": false,
+  "networkManagers": false,
+  "youthCoordinators": false,
+  "lcTitle": "",
+  "nmTitle": "",
+  "youthTitle": "",
+  "lcDesc": "",
+  "nmDesc": "",
+  "youthDesc": "",
   "lcProfiles": [
-    {
-      "name": "Prof. DIAKHATE Mouhamadou",
-      "email": "",
-      "networkPosition": "Président du Conseil d'Administration",
-      "position": "Co Directeur du Laboratoire LEIDI de l'Université Gaston Berger",
-      "photo": "/uploads/mouhamadou-diakhate.jpg"
-    },
-    {
-      "name": "Professeur Ahmadou Aly MBAYE",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "",
-      "photo": "/uploads/recteur.jpeg"
-    },
-    {
-      "name": "Prof. DIALLO Djibril",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Président du du Réseaux de la Renaissance africaine et de la diaspora (ARDN)",
-      "photo": "/uploads/professeur-diallo-djibril.jpg"
-    },
-    {
-      "name": "Prof. NIANG Birahim",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Ex Doyen de la Faculté des Sciences Economiques et de Gestion",
-      "photo": "/uploads/professeur-birahim_niang-ucad.jpg"
-    },
-    {
-      "name": "Michel SIDIBE",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "",
-      "photo": "/uploads/monsieur-le-ministre-de-la-sante-du-mali-michel-sidibe.jpg"
-    },
-    {
-      "name": "Papa Sagna MBAYE",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Député à l'Assemblée Nationale du Sénégal",
-      "photo": "/uploads/hon-papa-sagna-mbaye-senegal.jpg"
-    },
-    {
-      "name": "Mme Oulie KEITA",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "",
-      "photo": "/uploads/oulie-keita-directrice-de-l-afrique-de-l-ouest-francophone-de-one.jpg"
-    },
-    {
-      "name": "Dr Marcel Tamba MILLIMOUNO",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": " Conseiller Principal du Ministre de la jeunesse et de  l’emploi des jeunes",
-      "photo": "/uploads/dr-marcel-tamba-millimono-conseiller-principal-du-ministere-de-la-jeunesse-et-de-l-emploi-de-la-republique-de-guinee.jpg"
-    },
-    {
-      "name": "DR ABRAHAM BENGALY",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Président du Cercle de Réflexion et d'Actions Initiative du Mali",
-      "photo": "/uploads/dr-abraham-bengaly.jpg"
-    },
-    {
-      "name": "Mme la Ministre Ngoné NDOYE",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Présidente fondatrice de la fondation FEMIDEC (Femmes Enfants Migration et Développement Communautaire)",
-      "photo": "/uploads/madame-la-ministre-ngone-ndoye-ancienne-ministre-des-senegalais-de-l-exterieur.jpg"
-    },
-    {
-      "name": "Mme la Ministre Aïda MBO KEITA",
-      "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
-      "position": "Présidente du Réseau Energia/Mali (Genre et énergie durable)",
-      "photo": "/uploads/mme-la-ministre-keita-aida-m-bo.jpg"
-    }
+
   ],
   "nmProfiles": [
-    {
-      "name": "Ibrahima Kampo",
-      "networkPosition": "Manager du réseau",
-      "position": "",
-      "photo": "/uploads/20190520_163648-1.jpg",
-      "email": "sahel@unsdsn.org"
-    }
+
   ],
   "youthProfiles": [
+
+  ],
+  "defaultPhoto": "",
+  "title": "Notre Equipe",
+  "network_chairman_profil": [
     {
-      "name": "Pape Malick Dembele",
-      "networkPosition": "Coordinateur du Youth Network",
-      "position": "",
-      "photo": "/uploads/pape.jpg",
-      "email": "sahel@sdsnyouth.org"
+      "email": "mdiakhate10@yahoo.com ",
+      "network_chairman_title": "Chairman",
+      "position_title__if_applicable_": "Co Directeur du Laboratoire LEIDI de l'Université Gaston Berger",
+      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
+      "full_name": "Professeur Mouhamadou M. DIAKHATE"
     }
   ],
-  "defaultPhoto": "/images/person.png",
-  "title": "NOTRE EQUIPE"
+  "network_chairman_title": "",
+  "network_chairman_description": "",
+  "chaiman_profile_": true,
+  "nc_title": "Président du Réseau Sahel",
+  "ncDesc": "<p>Le Président assure la Pésidence du Conseil d'Administration  du résau</p>",
+  "network_chairman": [
+    {
+      "name": "Professeur DIAKHATE Mouhamadou",
+      "email": "mdiakhate10@yahoo.com",
+      "network_chairman_position_title": "Network Chairman",
+      "position_title__if_applicable_": "",
+      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
+      "networkPosition": ""
+    }
+  ],
+  "NetworkChairman": false,
+  "nctitle": "",
+  "nen": "Président de réseau",
+  "network_chairman_profile": [
+
+  ],
+  "ncTitle": ""
 }
