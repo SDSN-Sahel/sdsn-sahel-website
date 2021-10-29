@@ -44,11 +44,15 @@
       "networkPosition": ""
     }
   ],
-  "NetworkChairman": false,
+  "NetworkChairman": true,
   "nctitle": "",
   "nen": "Président de réseau",
   "network_chairman_profile": [
-
+    {
+      "full_name": "Professeur DIAKHATE Mouhamadou",
+      "nnwork_chairman_position": "Président",
+      "photo": "/assets/uploads/mouhamadou-diakhate.jpg"
+    }
   ],
   "ncTitle": ""
 }
