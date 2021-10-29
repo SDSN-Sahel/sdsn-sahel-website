@@ -13,7 +13,7 @@
     {
       "name": "Prof. DIAKHATE Mouhamadou",
       "email": "",
-      "networkPosition": "Membre du Conseil d'Administration",
+      "networkPosition": "Président du Conseil d'Administration",
       "position": "Co Directeur du Laboratoire LEIDI de l'Université Gaston Berger",
       "photo": "/uploads/mouhamadou-diakhate.jpg"
     },
@@ -134,5 +134,6 @@
       "nnwork_chairman_position": "Président CA",
       "photo": "/assets/uploads/mouhamadou-diakhate.jpg"
     }
-  ]
+  ],
+  "ncTitle": ""
 }
