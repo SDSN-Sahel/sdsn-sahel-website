@@ -98,7 +98,13 @@
     }
   ],
   "youthProfiles": [
-
+    {
+      "name": "Poste disponible",
+      "email": "",
+      "networkPosition": "Youth Network Coordinator",
+      "position": "",
+      "photo": "/assets/uploads/hiring.jpg"
+    }
   ],
   "defaultPhoto": "",
   "title": "Notre Equipe",
