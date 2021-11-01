@@ -1,8 +1,8 @@
 {
   "teamDesc": "",
-  "leadershipCouncil": false,
-  "networkManagers": false,
-  "youthCoordinators": false,
+  "leadershipCouncil": true,
+  "networkManagers": true,
+  "youthCoordinators": true,
   "lcTitle": "",
   "nmTitle": "",
   "youthTitle": "",
