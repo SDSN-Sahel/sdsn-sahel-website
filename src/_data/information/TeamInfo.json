@@ -4,11 +4,11 @@
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "",
-  "nmTitle": "",
-  "youthTitle": "",
+  "nmTitle": "MANAGER SDSN SAHEL",
+  "youthTitle": "MANAGER SDSN YOUTH SAHEL",
   "lcDesc": "",
   "nmDesc": "",
-  "youthDesc": "",
+  "youthDesc": "<p>Envoyer votre CV pour candidature à: sahel@unsdsn.org</p>",
   "lcProfiles": [
     {
       "name": "Professeur DIAKHATE Mouhamadou",
