@@ -82,7 +82,13 @@
     }
   ],
   "nmProfiles": [
-
+    {
+      "name": "Dr KAMPO Ibrahima",
+      "email": "sahel@unsdsn.org",
+      "networkPosition": "Network Manager",
+      "position": "",
+      "photo": "/assets/uploads/faceapp_1631780380148.jpg"
+    }
   ],
   "youthProfiles": [
 
