@@ -10,7 +10,20 @@
   "nmDesc": "",
   "youthDesc": "",
   "lcProfiles": [
-
+    {
+      "name": "Professeur DIAKHATE Mouhamadou",
+      "email": "",
+      "position": "",
+      "photo": "/assets/uploads/mouhamadou-diakhate.jpg",
+      "networkPosition": "Président du Réseau"
+    },
+    {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    }
   ],
   "nmProfiles": [
 
