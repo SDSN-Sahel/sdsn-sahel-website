@@ -51,6 +51,13 @@
       "networkPosition": "Membre du Conseil d'Administration",
       "position": "",
       "photo": "/uploads/dr-marcel-tamba-millimono-conseiller-principal-du-ministere-de-la-jeunesse-et-de-l-emploi-de-la-republique-de-guinee.jpg"
+    },
+    {
+      "name": "Professeur DIALLO Djibril",
+      "email": "",
+      "networkPosition": "Membre du Conseil d'Administration",
+      "position": "",
+      "photo": "/assets/uploads/professeur-diallo-djibril.jpg"
     }
   ],
   "nmProfiles": [
@@ -89,11 +96,7 @@
   "nctitle": "",
   "nen": "Président de réseau",
   "network_chairman_profile": [
-    {
-      "full_name": "Professeur DIAKHATE Mouhamadou",
-      "nnwork_chairman_position": "Président",
-      "photo": "/assets/uploads/mouhamadou-diakhate.jpg"
-    }
+
   ],
   "ncTitle": ""
 }
