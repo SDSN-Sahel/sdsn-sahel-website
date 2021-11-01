@@ -108,35 +108,4 @@
   ],
   "defaultPhoto": "",
   "title": "Notre Equipe",
-  "network_chairman_profil": [
-    {
-      "email": "mdiakhate10@yahoo.com ",
-      "network_chairman_title": "Chairman",
-      "position_title__if_applicable_": "Co Directeur du Laboratoire LEIDI de l'Université Gaston Berger",
-      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
-      "full_name": "Professeur Mouhamadou M. DIAKHATE"
-    }
-  ],
-  "network_chairman_title": "",
-  "network_chairman_description": "",
-  "chaiman_profile_": true,
-  "nc_title": "Président du Réseau Sahel",
-  "ncDesc": "<p>Le Président assure la Pésidence du Conseil d'Administration  du résau</p>",
-  "network_chairman": [
-    {
-      "name": "Professeur DIAKHATE Mouhamadou",
-      "email": "mdiakhate10@yahoo.com",
-      "network_chairman_position_title": "Network Chairman",
-      "position_title__if_applicable_": "",
-      "photo": "/assets/uploads/professeur-mouhamadou-diakhate.jpg",
-      "networkPosition": ""
-    }
-  ],
-  "NetworkChairman": true,
-  "nctitle": "",
-  "nen": "Président de réseau",
-  "network_chairman_profile": [
-
-  ],
-  "ncTitle": ""
-}
+  
