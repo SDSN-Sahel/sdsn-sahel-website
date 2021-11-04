@@ -5,7 +5,7 @@ author: Network Secretariat
 tags: []
 title: SDSN NEWSLETTER
 desc: <p><a href="https://www.unsdsn.org/sdsn-newsletter-october-2021" title="https://www.unsdsn.org/sdsn-newsletter-october-2021">https://www.unsdsn.org/sdsn-newsletter-october-2021</a></p>
-fImage: "/assets/uploads/130101-sdsn_logo_final.jpg"
+fImage: "/uploads/130101-sdsn_logo_final.jpg"
 featuredToggle: false
 aboutAuthor: ''
 embeddedContent: []
